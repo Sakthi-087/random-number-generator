@@ -3,11 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "engines": {
-<<<<<<< HEAD
-    "node": "^10.13 || 12 || 14 || 15",
-=======
     "node": "22.x",
->>>>>>> 6889d5a (Initial commit)
     "npm": ">=6"
   },
   "dependencies": {
